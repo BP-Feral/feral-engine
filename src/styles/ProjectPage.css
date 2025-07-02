@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+
+.projectpage main {
+  display: flex;
+  flex-direction: row; /* side-by-side */
+  gap: 2rem;
+  max-width: 1200px;
+  margin: auto;
+  padding: 2rem;
+}
+
+
+.content {
+  flex: 3;
+}
+
+.tabs {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.tab {
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  background: var(--card);
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.tab:hover {
+  background: var(--primary-hover);
+  color: white;
+}
+
+.tab.active {
+  background: var(--primary);
+  color: white;
+}
+
+.tab-content {
+  background: var(--card);
+  padding: 1.5rem;
+  margin-top: 1.5rem;
+  border-radius: 12px;
+}
+
+.sidebar {
+  flex: 1;
+  background: var(--card);
+  padding: 1.5rem;
+  border-radius: 12px;
+  height: fit-content;
+}
+
+.section-title {
+  margin-top: 1rem;
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.download-button {
+  display: inline-block;
+  margin-top: 1rem;
+  background: var(--primary);
+  color: white;
+  padding: 0.6rem 1.2rem;
+  border-radius: 6px;
+  text-decoration: none;
+}
+
+.download-button:hover {
+  background: var(--primary-hover);
+}
