@@ -33,7 +33,7 @@ function HomePage() {
         
                 <section
           className="project"
-          onClick={() => navigate("/projects/project-one")}
+          onClick={() => navigate("/projects/project-two")}
           role="button"
           tabIndex={0}
           onKeyDown={(e) => {
@@ -42,8 +42,8 @@ function HomePage() {
             }
           }}
         >
-          <h2>Project One</h2>
-          <p>Short description of the first project.</p>
+          <h2>Project Two</h2>
+          <p>Short description of the second project.</p>
         </section>
 
       </main>
