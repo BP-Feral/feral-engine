@@ -15,6 +15,8 @@ body {
     padding: 0;
 }
 
+html, body { scroll-behavior: smooth; }
+
 header {
     background-color: #020617;
     padding: 2rem 1rem;
@@ -46,13 +48,3 @@ footer {
     padding: 2rem;
     color: var(--muted);
 }
-
-
-/* Unvisited link  */
-a {color:#fffbf6;}
-/* Visited link    */
-a:visited {color:#6f7e6f;}
-/* Mouse over link */
-a:hover {color:#69ccf3;}
-/* Selected link   */
-a:active {color:#59a0bd;}

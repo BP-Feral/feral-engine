@@ -23,7 +23,7 @@ function HomePage() {
           tabIndex={0}
           onKeyDown={(e) => {
             if (e.key === "Enter" || e.key === " ") {
-              navigate("/projects/proj1");
+              navigate("/projects/project-one");
             }
           }}
         >
@@ -38,12 +38,27 @@ function HomePage() {
           tabIndex={0}
           onKeyDown={(e) => {
             if (e.key === "Enter" || e.key === " ") {
-              navigate("/projects/proj2");
+              navigate("/projects/project-two");
             }
           }}
         >
           <h2>Project Two</h2>
           <p>Short description of the second project.</p>
+        </section>
+
+        <section
+          className="project"
+          onClick={() => navigate("/projects/feral-engine")}
+          role="button"
+          tabIndex={0}
+          onKeyDown={(e) => {
+            if (e.key === "Enter" || e.key === " ") {
+              navigate("/projects/feral-engine");
+            }
+          }}
+        >
+          <h2>Feral Engine</h2>
+          <p>Lightweight, modular engine by Feral Works.</p>
         </section>
 
       </main>
