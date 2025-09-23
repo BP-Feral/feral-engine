@@ -147,7 +147,7 @@
   margin-top: 1.25rem;
   margin-bottom: 3.5rem;   /* space below each group */
 }
-.fe-subsection-title { margin: 0; color: var(--muted); }
+.fe-subsection-title { margin: 0; color: var(--muted); margin-top: 40px;}
 
 /* Grid of cards */
 .fe-subsection .fe-grid { margin-top: 1.75rem; } /* space between title and cards */
@@ -167,6 +167,7 @@
   border: 1px solid #2a2a2a;   /* crisp edge */
   border-radius: 14px;
   padding: 1rem;
+  margin-top: 20px;
   display: grid;
   grid-template-rows: auto 1fr auto; /* header / body / actions */
   gap: 0.6rem;

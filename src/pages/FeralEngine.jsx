@@ -69,7 +69,7 @@ const FeralEngine = () => {
           <div className="fe-actions">
             <a
               className="fe-button fe-button--primary"
-              href="https://github.com/BP-Feral/feral-engine"
+              href="https://github.com/BP-Feral/FeralEngine"
               target="_blank" rel="noopener noreferrer"
             >
               View on GitHub
