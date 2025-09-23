@@ -119,7 +119,7 @@ const FeralEngine = () => {
             <div className="fe-grid">
               <article className="fe-card">
                 <div className="fe-card-head">
-                  <h4 className="fe-card-title">Standard Engine</h4>
+                  <h4 className="fe-card-title">Standard Engine 4.6</h4>
                   <span className="fe-pill">Core</span>
                 </div>
                 <p className="fe-card-desc">Stable build with the core feature set. Great starting point for most projects.</p>
@@ -136,7 +136,7 @@ const FeralEngine = () => {
 
               <article className="fe-card">
                 <div className="fe-card-head">
-                  <h4 className="fe-card-title">Steam Module Engine</h4>
+                  <h4 className="fe-card-title">Steam Module Engine 4.6</h4>
                   <span className="fe-pill">Steam</span>
                 </div>
                 <p className="fe-card-desc">Precompiled with the Steam module integrated for API access and features.</p>
@@ -153,7 +153,7 @@ const FeralEngine = () => {
 
               <article className="fe-card">
                 <div className="fe-card-head">
-                  <h4 className="fe-card-title">Steam Multiplayer Peer Engine</h4>
+                  <h4 className="fe-card-title">Steam Multiplayer Peer Engine 4.6</h4>
                   <span className="fe-pill">Multiplayer</span>
                 </div>
                 <p className="fe-card-desc">Build configured for Steam Peer-to-Peer multiplayer workflows.</p>
@@ -175,7 +175,7 @@ const FeralEngine = () => {
             <div className="fe-grid">
               <article className="fe-card">
                 <div className="fe-card-head">
-                  <h4 className="fe-card-title">Standard Templates</h4>
+                  <h4 className="fe-card-title">Standard Templates (4.6)</h4>
                   <span className="fe-pill fe-pill--soft">Templates</span>
                 </div>
                 <p className="fe-card-desc">Boilerplate templates for the Standard Engine (scenes, config, and scripts).</p>
@@ -188,7 +188,7 @@ const FeralEngine = () => {
 
               <article className="fe-card">
                 <div className="fe-card-head">
-                  <h4 className="fe-card-title">Steam Module Templates</h4>
+                  <h4 className="fe-card-title">Steam Module Templates (4.6)</h4>
                   <span className="fe-pill fe-pill--soft">Templates</span>
                 </div>
                 <p className="fe-card-desc">Boilerplate templates configured for the Steam Module Engine.</p>
@@ -201,7 +201,7 @@ const FeralEngine = () => {
 
               <article className="fe-card">
                 <div className="fe-card-head">
-                  <h4 className="fe-card-title">Steam Multiplayer Peer Templates</h4>
+                  <h4 className="fe-card-title">Steam Multiplayer Peer Templates (4.6)</h4>
                   <span className="fe-pill fe-pill--soft">Templates</span>
                 </div>
                 <p className="fe-card-desc">Starter templates tailored for Steam Peer-to-Peer multiplayer.</p>
