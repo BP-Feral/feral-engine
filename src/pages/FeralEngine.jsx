@@ -124,7 +124,7 @@ const FeralEngine = () => {
                 </div>
                 <p className="fe-card-desc">Stable build with the core feature set. Great starting point for most projects.</p>
                 <div className="fe-card-actions">
-                  <a className="fe-button fe-button--primary" href="downloads/feral-engine-standard.zip" download>
+                  <a className="fe-button fe-button--primary" href="downloads/feral-engine-standard.rar" download>
                     Download Latest
                   </a>
                   <details className="fe-details">
