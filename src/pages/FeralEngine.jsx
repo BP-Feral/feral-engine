@@ -141,8 +141,8 @@ const FeralEngine = () => {
                 </div>
                 <p className="fe-card-desc">Precompiled with the Steam module integrated for API access and features.</p>
                 <div className="fe-card-actions">
-                  <a className="fe-button fe-button--primary" href="downloads/feral-engine-steam-module.zip" download>
-                    Download Latest
+                  <a className="fe-button fe-button--primary" href="" download>
+                    Available Soon
                   </a>
                   <details className="fe-details">
                     <summary>Checksums</summary>
@@ -158,8 +158,8 @@ const FeralEngine = () => {
                 </div>
                 <p className="fe-card-desc">Build configured for Steam Peer-to-Peer multiplayer workflows.</p>
                 <div className="fe-card-actions">
-                  <a className="fe-button fe-button--primary" href="downloads/feral-engine-steam-multiplayer-peer.zip" download>
-                    Download Latest
+                  <a className="fe-button fe-button--primary" href="" download>
+                    Available Soon
                   </a>
                   <details className="fe-details">
                     <summary>Checksums</summary>
@@ -180,8 +180,8 @@ const FeralEngine = () => {
                 </div>
                 <p className="fe-card-desc">Boilerplate templates for the Standard Engine (scenes, config, and scripts).</p>
                 <div className="fe-card-actions">
-                  <a className="fe-button fe-button--outline" href="downloads/templates/standard-templates.zip" download>
-                    Download ZIP
+                  <a className="fe-button fe-button--outline" href="" download>
+                    ZIP Available Soon
                   </a>
                 </div>
               </article>
@@ -193,8 +193,8 @@ const FeralEngine = () => {
                 </div>
                 <p className="fe-card-desc">Boilerplate templates configured for the Steam Module Engine.</p>
                 <div className="fe-card-actions">
-                  <a className="fe-button fe-button--outline" href="downloads/templates/steam-module-templates.zip" download>
-                    Download ZIP
+                  <a className="fe-button fe-button--outline" href="" download>
+                    ZIP Available Soon
                   </a>
                 </div>
               </article>
@@ -206,8 +206,8 @@ const FeralEngine = () => {
                 </div>
                 <p className="fe-card-desc">Starter templates tailored for Steam Peer-to-Peer multiplayer.</p>
                 <div className="fe-card-actions">
-                  <a className="fe-button fe-button--outline" href="downloads/templates/steam-multiplayer-peer-templates.zip" download>
-                    Download ZIP
+                  <a className="fe-button fe-button--outline" href="" download>
+                    ZIP Available Soon
                   </a>
                 </div>
               </article>
