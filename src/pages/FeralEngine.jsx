@@ -125,11 +125,11 @@ const FeralEngine = () => {
                 <p className="fe-card-desc">Stable build with the core feature set. Great starting point for most projects.</p>
                 <div className="fe-card-actions">
                   <a className="fe-button fe-button--primary" href="downloads/feral-engine-standard.rar" download>
-                    Download Latest
+                    Get Standard Engine
                   </a>
                   <details className="fe-details">
                     <summary>Checksums</summary>
-                    <code>SHA256: (Not available yet)</code>
+                    <code>SHA256: acc1cc9b4200a2ec72bc9d70d7d4d8eeebadfb0e</code>
                   </details>
                 </div>
               </article>
@@ -180,9 +180,14 @@ const FeralEngine = () => {
                 </div>
                 <p className="fe-card-desc">Boilerplate templates for the Standard Engine (scenes, config, and scripts).</p>
                 <div className="fe-card-actions">
-                  <a className="fe-button fe-button--outline" href="" download>
-                    ZIP Available Soon
-                  </a>
+                  <div>
+                    <a className="fe-button fe-button--outline" href="downloads/standard-template-debug.rar" download>
+                      Get Debug Export Templates
+                    </a>
+                    <a className="fe-button fe-button--outline" href="downloads/standard-template-release.rar" download>
+                      Get Release Export Templates
+                    </a>
+                  </div>
                 </div>
               </article>
 

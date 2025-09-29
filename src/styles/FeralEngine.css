@@ -108,6 +108,7 @@
   border: 1px solid transparent;
   text-decoration: none;
   font-weight: 600;
+  margin-top: 10px;
 }
 /* Ensure global link styles don't bleed into buttons */
 .feral-engine .fe-button:link,
@@ -170,7 +171,6 @@
   margin-top: 20px;
   display: grid;
   grid-template-rows: auto 1fr auto; /* header / body / actions */
-  gap: 0.6rem;
   box-shadow: inset 0 1px 0 rgba(255,255,255,0.02); /* faint inner line only */
 }
 .fe-card-head {
@@ -207,7 +207,7 @@
 .fe-card-actions {
   align-self: end;      /* stick to bottom */
   margin-top: 0;
-  display: flex;
+  display: block;
   gap: 0.5rem;
   align-items: center;
   flex-wrap: wrap;
@@ -215,8 +215,8 @@
 
 /* Details / checksum area */
 .fe-details summary { cursor: pointer; color: var(--muted); }
+summary { margin-top: 20px;}
 .fe-details code {
-  display: block;
   margin-top: 0.35rem;
   font-size: 0.85rem;
   color: #ddd;
