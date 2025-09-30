@@ -129,7 +129,7 @@ const FeralEngine = () => {
                   </a>
                   <details className="fe-details">
                     <summary>Checksums</summary>
-                    <code>SHA256: acc1cc9b4200a2ec72bc9d70d7d4d8eeebadfb0e</code>
+                    <code>SHA256: [acc1cc9b4]</code>
                   </details>
                 </div>
               </article>
@@ -141,12 +141,12 @@ const FeralEngine = () => {
                 </div>
                 <p className="fe-card-desc">Precompiled with the Steam module integrated for API access and features.</p>
                 <div className="fe-card-actions">
-                  <a className="fe-button fe-button--primary" href="" download>
-                    Available Soon
+                  <a className="fe-button fe-button--primary" href="downloads/feral-engine-steam.rar" download>
+                    Get Steam Module Engine
                   </a>
                   <details className="fe-details">
                     <summary>Checksums</summary>
-                    <code>SHA256: (Not available yet)</code>
+                    <code>SHA256: [88dc24936]</code>
                   </details>
                 </div>
               </article>
