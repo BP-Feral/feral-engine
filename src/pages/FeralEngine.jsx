@@ -146,7 +146,7 @@ const FeralEngine = () => {
                   </a>
                   <details className="fe-details">
                     <summary>Checksums</summary>
-                    <code>SHA256: [88dc24936]</code>
+                    <code>SHA256: [700baa8f5]</code>
                   </details>
                 </div>
               </article>
