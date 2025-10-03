@@ -198,8 +198,11 @@ const FeralEngine = () => {
                 </div>
                 <p className="fe-card-desc">Boilerplate templates configured for the Steam Module Engine.</p>
                 <div className="fe-card-actions">
-                  <a className="fe-button fe-button--outline" href="" download>
-                    ZIP Available Soon
+                  <a className="fe-button fe-button--outline" href="downloads/steam-template-debug.rar" download>
+                    Get Debug Steam Export Templates
+                  </a>
+                  <a className="fe-button fe-button--outline" href="downloads/steam-template-release.rar" download>
+                    Get Release Steam Export Templates
                   </a>
                 </div>
               </article>
